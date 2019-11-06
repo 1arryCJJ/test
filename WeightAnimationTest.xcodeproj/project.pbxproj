@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		46BDDFD023725CC000C8A6AF /* SecondTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46BDDFCF23725CC000C8A6AF /* SecondTableViewController.m */; };
 		46CE3FB71EF0C92900EA4089 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 46CE3FB61EF0C92900EA4089 /* main.m */; };
 		46CE3FBA1EF0C92900EA4089 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 46CE3FB91EF0C92900EA4089 /* AppDelegate.m */; };
 		46CE3FBD1EF0C92900EA4089 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 46CE3FBC1EF0C92900EA4089 /* ViewController.m */; };
@@ -37,8 +36,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		46BDDFCE23725CC000C8A6AF /* SecondTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SecondTableViewController.h; sourceTree = "<group>"; };
-		46BDDFCF23725CC000C8A6AF /* SecondTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SecondTableViewController.m; sourceTree = "<group>"; };
 		46CE3FB21EF0C92900EA4089 /* WeightAnimationTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeightAnimationTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		46CE3FB61EF0C92900EA4089 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		46CE3FB81EF0C92900EA4089 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -112,8 +109,6 @@
 				46CE3FB91EF0C92900EA4089 /* AppDelegate.m */,
 				46CE3FBB1EF0C92900EA4089 /* ViewController.h */,
 				46CE3FBC1EF0C92900EA4089 /* ViewController.m */,
-				46BDDFCE23725CC000C8A6AF /* SecondTableViewController.h */,
-				46BDDFCF23725CC000C8A6AF /* SecondTableViewController.m */,
 				46CE3FBE1EF0C92900EA4089 /* Main.storyboard */,
 				46CE3FC11EF0C92900EA4089 /* Assets.xcassets */,
 				46CE3FC31EF0C92900EA4089 /* LaunchScreen.storyboard */,
@@ -299,7 +294,6 @@
 				46CE3FEB1EF0C94100EA4089 /* AnimationView.m in Sources */,
 				46CE3FBA1EF0C92900EA4089 /* AppDelegate.m in Sources */,
 				46CE3FB71EF0C92900EA4089 /* main.m in Sources */,
-				46BDDFD023725CC000C8A6AF /* SecondTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
